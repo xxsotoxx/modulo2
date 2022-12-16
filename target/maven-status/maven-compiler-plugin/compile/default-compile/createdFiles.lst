@@ -1,0 +1,16 @@
+org\bedu\jpa\modulo2\controller\ProfesorController.class
+org\bedu\jpa\modulo2\service\IAlumnoService.class
+org\bedu\jpa\modulo2\repository\IMateriaRepository.class
+org\bedu\jpa\modulo2\service\impl\MateriaServiceImp.class
+org\bedu\jpa\modulo2\service\impl\AlumnoServiceImp.class
+org\bedu\jpa\modulo2\controller\AlumnoController.class
+org\bedu\jpa\modulo2\service\IMateriaService.class
+org\bedu\jpa\modulo2\repository\IProfesorRepository.class
+org\bedu\jpa\modulo2\entity\Alumno.class
+org\bedu\jpa\modulo2\service\impl\ProfesorServiceImp.class
+org\bedu\jpa\modulo2\controller\MateriaController.class
+org\bedu\jpa\modulo2\entity\Profesor.class
+org\bedu\jpa\modulo2\Modulo2Application.class
+org\bedu\jpa\modulo2\entity\Materia.class
+org\bedu\jpa\modulo2\repository\IAlumnoRepository.class
+org\bedu\jpa\modulo2\service\IProfesorService.class
